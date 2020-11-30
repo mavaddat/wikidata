@@ -1,11 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "rrVcwNbnQpbhVNpto4U65WPwLZQsVs9GNoke3d+HdUFOsEezoSI44/E0FD/NK4piNx3emeHLiZa+xo4Rl78ceg==",
+  "dgSpecHash": "m1jtDk2PfweHjDkYFudI4run1sMO9rISEAJDR6KOI5PN5wdtUQcRCo3Zun0hONrcNn0NvZLcQZDkcsa+Wh5S5g==",
   "success": true,
   "projectFilePath": "C:\\Users\\MavaddatJavid\\Documents\\GitHub\\wikidata\\wikidata.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\MavaddatJavid\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\MavaddatJavid\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\MavaddatJavid\\.nuget\\packages\\powershellstandard.library\\5.1.0-preview-06\\powershellstandard.library.5.1.0-preview-06.nupkg.sha512"
   ],
   "logs": []
