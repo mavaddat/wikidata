@@ -40,6 +40,10 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "dependencies": {
+            "CXuesong.MW.WikiClientLibrary": {
+              "target": "Package",
+              "version": "[0.7.4, )"
+            },
             "PowerShellStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
